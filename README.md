@@ -1,8 +1,11 @@
-Hi, I’m Andrew Williams (@RetiredPirate)
+## Hi, I’m Andrew Williams! (@RetiredPirate)
 
-I work at Viewpoint in Portland, OR
+I'm a software developer based in Portland, OR
 
-I love frontend development and I have 3 years of Angular experience.
-I'm currently learning react and building a personal website you can check out [here](https://www.retiredpirate.io).
+I love frontend development and I have 4 years of experience developing large-scale web apps in modern frameworks.
+I'm currently working at [Found](www.found.com) helping to transform banking and taxes for the self-employed.
 
-You can reach me at retiredpirate42@gmail.com.
+
+Email: [retiredpirate42@gmail.com](mailto:retiredpirate42@gmail.com)
+
+LinkedIn: [retiredpirate](https://www.linkedin.com/in/retiredpirate)
