@@ -1,8 +1,8 @@
 ## Hi, I’m Andrew Williams! (@RetiredPirate)
 
-I'm a software developer based in Portland, OR
+I'm a software engineer based in Austin, TX
 
-I love frontend development and I have 4 years of experience developing large-scale web apps in modern frameworks.
+I love frontend web development and I have 5 years of experience developing large-scale web apps in modern frameworks.
 I'm currently working at [Found](www.found.com) helping to transform banking and taxes for the self-employed.
 
 
